@@ -25,3 +25,9 @@ None yet!
 | Module name | Framework | Description | Maintainer | Co-maintainer | Advocate | Specs |
 | --- | --- | --- | --- | --- | --- | --- |
 | silverleague/silverstripe-calendar | ^3.1 | Highly flexible calendar system for SilverStripe | TBC | [anselmdk](https://github.com/anselmdk) | TBC | [Porting proposal](draft/silverstripe-calendar.md) |
+
+## Contributing
+
+**Draft phase:** Please submit pull requests to the appropriate module "specification" file and indicate your suggested changes. Feel free to review other requests too. Requests will be merged by a SilverLeague community member once approved.
+
+**Development and active support phase:** Ideas, proposals and contributions are readily accepted in the form of issues or pull requests on the appropriate SilverLeague repository.
