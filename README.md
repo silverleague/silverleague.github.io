@@ -18,7 +18,7 @@ None yet!
 
 | Module name | Framework | Description | Links |
 | --- | --- | --- | --- |
-| silverleague/silverstripe-console | 4.x | A better SilverStripe CLI console | [Specs](development/silverstripe-console.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
+| [silverleague/silverstripe-console](https://github.com/silverleague/silverstripe-console) | 4.x | A better SilverStripe CLI console | [Specs](development/silverstripe-console.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
 
 ### Proposed
 
