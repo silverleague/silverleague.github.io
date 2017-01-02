@@ -8,6 +8,7 @@
 | Co-maintainer | TBC |
 | Advocate | TBC |
 
+[Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/1).
 
 ## Introduction
 
