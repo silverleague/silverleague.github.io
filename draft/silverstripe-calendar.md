@@ -52,4 +52,4 @@ To be re-released under the MIT license.
 
 ## Contributing
 
-Please see the [Contributing section](../README.md#contributing) for more information.
+Please see the [Contributing section](../#contributing) for more information.
