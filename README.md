@@ -16,18 +16,22 @@ None yet!
 
 ### In development
 
-| Module name | Framework | Description | Maintainer | Co-maintainer | Advocate | Specs |
-| --- | --- | --- | --- | --- | --- | --- |
-| silverleague/silverstripe-console | 4.x | A better SilverStripe CLI console | [robbieaverill](https://github.com/robbieaverill) | TBC | TBC | [Specifications](development/silverstripe-console.md) |
+| Module name | Framework | Description | Links |
+| --- | --- | --- | --- |
+| silverleague/silverstripe-console | 4.x | A better SilverStripe CLI console | [Specs](development/silverstripe-console.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
 
 ### Proposed
 
-| Module name | Framework | Description | Maintainer | Co-maintainer | Advocate | Specs |
-| --- | --- | --- | --- | --- | --- | --- |
-| silverleague/silverstripe-calendar | ^3.1 | Highly flexible calendar system for SilverStripe | TBC | [anselmdk](https://github.com/anselmdk) | TBC | [Porting proposal](draft/silverstripe-calendar.md) |
+| Module name | Framework | Description | Links |
+| --- | --- | --- | --- |
+| silverleague/silverstripe-calendar | ^3.1 | Highly flexible calendar system for SilverStripe | [Specs](draft/silverstripe-calendar.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/2) |
 
 ## Contributing
 
 **Draft phase:** Please submit pull requests to the appropriate module "specification" file and indicate your suggested changes. Feel free to review other requests too. Requests will be merged by a SilverLeague community member once approved.
 
 **Development and active support phase:** Ideas, proposals and contributions are readily accepted in the form of issues or pull requests on the appropriate SilverLeague repository.
+
+## Versioning
+
+All SilverLeague modules will adhere to semantic versioning.
