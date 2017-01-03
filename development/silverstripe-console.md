@@ -5,7 +5,7 @@
 | Role | Assignee |
 | ---- | --- |
 | Maintainer | [robbieaverill](https://github.com/robbieaverill) |
-| Co-maintainer | TBC |
+| Co-maintainer | [robingram](https://github.com/robingram) |
 | Advocate | TBC |
 
 [Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/1).
