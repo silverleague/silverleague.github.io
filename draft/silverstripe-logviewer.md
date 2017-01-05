@@ -1,4 +1,4 @@
-# silverleague/silverstripe-logwatch
+# silverleague/silverstripe-logviewer
 
 ## Status: Draft
 
