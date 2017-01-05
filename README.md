@@ -31,9 +31,7 @@ None yet!
 
 ## Contributing
 
-**Draft phase:** Please submit pull requests to the appropriate module "specification" file and indicate your suggested changes. Feel free to review other requests too. Requests will be merged by a SilverLeague community member once approved.
-
-**Development and active support phase:** Ideas, proposals and contributions are readily accepted in the form of issues or pull requests on the appropriate SilverLeague repository.
+We'd love you to! Please visit [our guide for contributing](CONTRIBUTING.md) for more information.
 
 ## Versioning
 
