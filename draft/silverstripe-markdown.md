@@ -1,4 +1,4 @@
-# silverleague/silverstripe-calendar
+# silverleague/silverstripe-markdown
 
 ## Status: Draft
 
