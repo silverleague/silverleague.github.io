@@ -28,6 +28,7 @@ None yet!
 | silverleague/silverstripe-markdown | ^4.0 | No-configuration markdown editor to replace TinyMCE | [Specs](draft/silverstripe-markdown.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/3) |
 | silverleague/silverstripe-dependencywatch | ^4.0 | A Composer dependency status screen in the CMS | [Specs](draft/silverstripe-dependencywatch.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/4) |
 | silverleague/silverstripe-logviewer | ^4.0 | View your SilverStripe logs from the CMS | [Specs](draft/silverstripe-logviewer.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/5) |
+| silverleague/silverstripe-async | ^4.0 | Asynchronous PHP implementations for SilverStripe | [Specs](draft/silverstripe-async.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/6) |
 
 # Contributing
 
