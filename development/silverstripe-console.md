@@ -6,7 +6,7 @@
 | ---- | --- |
 | Maintainer | [robbieaverill](https://github.com/robbieaverill) |
 | Co-maintainer | [robingram](https://github.com/robingram) |
-| Advocate | TBC |
+| Advocate | [dmc-core](https://github.com/dmc-core) |
 
 [Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/1).
 
