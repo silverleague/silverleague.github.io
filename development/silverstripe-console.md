@@ -30,6 +30,8 @@ This tool is limited. The SilverLeague console aims to replace its use with a mo
 * Cache management (clear, inspect, clear individual areas)
 * Module creation - initialise a new module, choose classes to extend and choose new DataObjects to create
 * Extensibility - ability to add custom commands to a user directory, or specific folder in a SilverStripe application to be run by the console
+* Delete pages - ability to entirely remove pages by ID or route
+* Object debug output - ability to dump a DataObject by class name and ID/URL route with output formatted cleanly
 
 ## License
 
