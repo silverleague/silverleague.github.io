@@ -18,7 +18,7 @@ A module – which offers an event loop, web sockets, and sane parallel executio
 
 ## Details
 
-I propose we use [Amp](https://github.com/amphp). It requires `^7.0`, which would become the required version for this module. It provides a mature event loop, promise, and web socket implementations. It also offers a parallel execution model that depends on Pthreads or PCNTL. 
+I propose we use [Amp](https://github.com/amphp). It requires `^7.0`, which would become the required version for this module. It provides a mature event loop, promise, and web socket implementations. It also offers a parallel execution model that depends on Pthreads or PCNTL.
 
 I suggest we abstract the parallel execution code, and base the first version on `exec` instead (as this will already be used for the initial CronTask (event loop daemon).
 

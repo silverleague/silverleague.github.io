@@ -8,7 +8,8 @@
 | Co-maintainer | [robingram](https://github.com/robingram) |
 | Advocate | [dmc-core](https://github.com/dmc-core) |
 
-[Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/1).
+* [Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/1)
+* [Repository](https://github.com/silverleague/silverstripe-console)
 
 ## Introduction
 
