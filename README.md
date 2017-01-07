@@ -18,7 +18,7 @@ None yet!
 
 | Module name | Framework | Description | Links |
 | --- | --- | --- | --- |
-| [silverleague/silverstripe-console](https://github.com/silverleague/silverstripe-console) | 4.x | A better SilverStripe CLI console | [Specs](development/silverstripe-console.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
+| [silverleague/silverstripe-console](https://github.com/silverleague/silverstripe-console) | ^4.0 | A better SilverStripe CLI console | [Specs](development/silverstripe-console.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
 | [silverleague/silverstripe-logviewer](https://github.com/silverleague/silverstripe-logviewer) | ^4.0 | View your SilverStripe logs from the CMS | [Specs](development/silverstripe-logviewer.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/5) |
 
 ### Proposed
