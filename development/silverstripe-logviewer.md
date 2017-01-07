@@ -1,10 +1,10 @@
 # silverleague/silverstripe-logviewer
 
-## Status: Draft
+## Status: Development
 
 | Role | Assignee |
 | ---- | --- |
-| Maintainer | TBC |
+| Maintainer | [robbieaverill](https://github.com/robbieaverill) |
 | Co-maintainer | TBC |
 | Advocate | TBC |
 
