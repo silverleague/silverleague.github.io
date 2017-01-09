@@ -4,8 +4,8 @@
 
 | Role | Assignee |
 | ---- | --- |
-| Maintainer | TBC |
-| Co-maintainer | TBC |
+| Maintainer | [zanderwar](https://github.com/zanderwar) |
+| Co-maintainer | [robbieaverill](https://github.com/robbieaverill) |
 | Advocate | TBC |
 
 [Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/4).
@@ -47,13 +47,13 @@ There is limited benefit to listing dependencies of dependencies, so perhaps we 
 
 ## Functionality
 
-* Add new CMSMain interface to the admin area
-* Load project's Composer dependencies using the `composer/composer` library
-* Distinguish between project dependencies and sub-dependencies
-* Distinguish between SilverStripe modules and other dependencies
-* Display SilverStripe modules and other dependencies in separate GridFields
-* Display module name, description, current installed version, next "semver safe" version available (if applicable, otherwise the same), next "semver unsafe" (major version bumped) version available
-* If there are "safe" framework updates, display an info message suggesting that it should be upgraded for security reasons
+- [ ] Add new CMSMain interface to the admin area
+- [ ] Load project's Composer dependencies using the `composer/composer` library
+- [ ] Distinguish between project dependencies and sub-dependencies
+- [ ] Distinguish between SilverStripe modules and other dependencies
+- [ ] Display SilverStripe modules and other dependencies in separate GridFields
+- [ ] Display module name, description, current installed version, next "semver safe" version available (if applicable, otherwise the same), next "semver unsafe" (major version bumped) version available
+- [ ] If there are "safe" framework updates, display an info message suggesting that it should be upgraded for security reasons
 
 ## License
 
