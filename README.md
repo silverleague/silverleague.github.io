@@ -20,6 +20,7 @@ None yet!
 | --- | --- | --- | --- |
 | [silverleague/silverstripe-console](https://github.com/silverleague/silverstripe-console) | ^4.0 | A better SilverStripe CLI console | [Specs](development/silverstripe-console.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
 | [silverleague/silverstripe-logviewer](https://github.com/silverleague/silverstripe-logviewer) | ^4.0 | View your SilverStripe logs from the CMS | [Specs](development/silverstripe-logviewer.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/5) |
+| [silverleague/silverstripe-dependencywatch](https://github.com/silverleague/silverstripe-dependencywatch) | ^4.0 | A Composer dependency status screen in the CMS | [Specs](draft/silverstripe-dependencywatch.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/4) |
 
 ### Proposed
 
@@ -27,7 +28,6 @@ None yet!
 | --- | --- | --- | --- |
 | silverleague/silverstripe-calendar | ^3.1 | Highly flexible calendar system for SilverStripe | [Specs](draft/silverstripe-calendar.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/2) |
 | silverleague/silverstripe-markdown | ^4.0 | No-configuration markdown editor to replace TinyMCE | [Specs](draft/silverstripe-markdown.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/3) |
-| silverleague/silverstripe-dependencywatch | ^4.0 | A Composer dependency status screen in the CMS | [Specs](draft/silverstripe-dependencywatch.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/4) |
 | silverleague/silverstripe-async | ^4.0 | Asynchronous PHP implementations for SilverStripe | [Specs](draft/silverstripe-async.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/6) |
 | silverleague/silverstripe-ideannotator | ^3.2, ^4.0 | Annotate the IDE for easier development | [Specs](draft/silverstripe-ideannotator.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/7) |
 
