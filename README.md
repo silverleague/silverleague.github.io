@@ -12,14 +12,15 @@ SilverLeague aims to create a community of active SilverStripe developers who co
 
 ### Active support
 
-None yet!
+| Module name | Framework | Description | Links |
+| --- | --- | --- | --- |
+| [silverleague/silverstripe-logviewer](https://github.com/silverleague/silverstripe-logviewer) | ^4.0 | View your SilverStripe logs from the CMS | [Proposal](https://github.com/silverleague/silverleague.github.io/issues/5) |
 
 ### In development
 
 | Module name | Framework | Description | Links |
 | --- | --- | --- | --- |
 | [silverleague/silverstripe-console](https://github.com/silverleague/silverstripe-console) | ^4.0 | A better SilverStripe CLI console | [Specs](development/silverstripe-console.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
-| [silverleague/silverstripe-logviewer](https://github.com/silverleague/silverstripe-logviewer) | ^4.0 | View your SilverStripe logs from the CMS | [Specs](development/silverstripe-logviewer.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/5) |
 | [silverleague/silverstripe-dependencywatch](https://github.com/silverleague/silverstripe-dependencywatch) | ^4.0 | A Composer dependency status screen in the CMS | [Specs](development/silverstripe-dependencywatch.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/4) |
 
 ### Proposed
