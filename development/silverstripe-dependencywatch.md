@@ -1,6 +1,6 @@
 # silverleague/silverstripe-dependencywatch
 
-## Status: Draft
+## Status: Development
 
 | Role | Assignee |
 | ---- | --- |
@@ -15,6 +15,8 @@
 As a developer you can use `composer outdated` to check for updates to your dependencies.
 
 This module aims to provide the same interface inside the CMS for both developers and content authors.
+
+It will have no dependency on `composer` itself being installed on the server as dependencies are read straight from the project root `composer.json`
 
 ## Why?
 
