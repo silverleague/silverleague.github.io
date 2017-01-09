@@ -1,6 +1,6 @@
 # silverleague/silverstripe-async
 
-## Status: Draft
+## Status: Development
 
 | Role | Assignee |
 | ---- | --- |
@@ -8,7 +8,8 @@
 | Co-maintainer | TBC |
 | Advocate | [robbieaverill](https://github.com/robbieaverill) |
 
-[Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/6).
+* [Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/6)
+* [Repository](https://github.com/silverleague/silverstripe-async)
 
 ## Why?
 
