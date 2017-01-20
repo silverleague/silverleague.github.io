@@ -1,6 +1,6 @@
 # silverleague/silverstripe-logviewer
 
-## Status: Development
+## Status: Active Support
 
 | Role | Assignee |
 | ---- | --- |
@@ -8,7 +8,8 @@
 | Co-maintainer | TBC |
 | Advocate | TBC |
 
-[Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/5).
+* [Proposal tracker](https://github.com/silverleague/silverleague.github.io/issues/5)
+* [Repository](https://github.com/silverleague/silverstripe-logviewer)
 
 ## Introduction
 
