@@ -12,25 +12,15 @@ SilverLeague aims to create a community of active SilverStripe developers who co
 
 ### Active support
 
-| Module name | Framework | Description | Links |
-| --- | --- | --- | --- |
-| [silverleague/silverstripe-logviewer](https://github.com/silverleague/silverstripe-logviewer) | ^4.0 | View your SilverStripe logs from the CMS | [Proposal](https://github.com/silverleague/silverleague.github.io/issues/5) |
+Modules that are currently supported by SilverLeague can be found [here](https://github.com/silverleague)
 
 ### In development
 
-| Module name | Framework | Description | Links |
-| --- | --- | --- | --- |
-| [silverleague/silverstripe-console](https://github.com/silverleague/silverstripe-console) | ^4.0 | A better SilverStripe CLI console | [Specs](development/silverstripe-console.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
-| [silverleague/silverstripe-dependencywatch](https://github.com/silverleague/silverstripe-dependencywatch) | ^4.0 | A Composer dependency status screen in the CMS | [Specs](development/silverstripe-dependencywatch.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/4) |
-| [silverleague/silverstripe-async](https://github.com/silverleague/silverstripe-async) | ^4.0 | Asynchronous PHP implementations for SilverStripe | [Specs](development/silverstripe-async.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/6) |
+Modules that are currently in development can be found on our [Issue Tracker](https://github.com/silverleague/silverleague.github.io/issues)
 
 ### Proposed
 
-| Module name | Framework | Description | Links |
-| --- | --- | --- | --- |
-| silverleague/silverstripe-calendar | ^3.1 | Highly flexible calendar system for SilverStripe | [Specs](draft/silverstripe-calendar.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/2) |
-| silverleague/silverstripe-markdown | ^4.0 | No-configuration markdown editor to replace TinyMCE | [Specs](draft/silverstripe-markdown.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/3) |
-| silverleague/silverstripe-ideannotator | ^3.2, ^4.0 | Annotate the IDE for easier development | [Specs](draft/silverstripe-ideannotator.md)/[Proposal](https://github.com/silverleague/silverleague.github.io/issues/7) |
+Modules that have been proposed, but have not begun development can also be found on our [Issue Tracker](https://github.com/silverleague/silverleague.github.io/issues)
 
 # Contributing
 
