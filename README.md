@@ -12,15 +12,17 @@ SilverLeague aims to create a community of active SilverStripe developers who co
 
 ### Active support
 
-Modules that are currently supported by SilverLeague can be found [here](https://github.com/silverleague)
+| Module name | Framework | Description | Links |
+| --- | --- | --- | --- |
+| [silverleague/silverstripe-logviewer](https://github.com/silverleague/silverstripe-logviewer) | ^4.0 | View your SilverStripe logs from the CMS | [Proposal](https://github.com/silverleague/silverleague.github.io/issues/5) |
 
 ### In development
 
-Modules that are currently in development can be found on our [Issue Tracker](https://github.com/silverleague/silverleague.github.io/issues)
+Modules that are currently in development can be found on our [Issue Tracker](https://github.com/silverleague/silverleague.github.io/labels/proposal%2Fin-development)
 
 ### Proposed
 
-Modules that have been proposed, but have not begun development can also be found on our [Issue Tracker](https://github.com/silverleague/silverleague.github.io/issues)
+Modules that have been proposed, but have not begun development can also be found on our [Issue Tracker](https://github.com/silverleague/silverleague.github.io/labels/proposal%2Fdraft)
 
 # Contributing
 
