@@ -1,6 +1,6 @@
 # silverleague/silverstripe-async
 
-## Status: Development
+## Status: Abandoned
 
 | Role | Assignee |
 | ---- | --- |
