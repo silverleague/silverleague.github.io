@@ -16,6 +16,7 @@ SilverLeague aims to create a community of active SilverStripe developers who co
 | --- | --- | --- | --- |
 | [silverleague/silverstripe-logviewer](https://github.com/silverleague/silverstripe-logviewer) | ^4.0 | View your SilverStripe logs from the CMS | [Proposal](https://github.com/silverleague/silverleague.github.io/issues/5) |
 | [silverleague/silverstripe-ideannotator](https://github.com/silverleague/silverstripe-ideannotator) | ^3.1, ^4.0 | Auto-generate PHPDoc blocks for your SilverStripe code | [Proposal](https://github.com/silverleague/silverleague.github.io/issues/7) |
+| [silverleague/silverstripe-console](https://github.com/silverleague/silverstripe-console) | ^4.0 | Auto-generate PHPDoc blocks for your SilverStripe code | [Proposal](https://github.com/silverleague/silverleague.github.io/issues/1) |
 
 ### In development
 
