@@ -1,6 +1,6 @@
 # silverleague/silverstripe-console
 
-## Status: In development
+## Status: Complete
 
 | Role | Assignee |
 | ---- | --- |
