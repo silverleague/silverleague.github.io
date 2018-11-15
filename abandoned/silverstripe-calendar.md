@@ -1,6 +1,6 @@
 # silverleague/silverstripe-calendar
 
-## Status: Draft - porting proposed
+## Status: Abandoned
 
 | Role | Assignee |
 | ---- | --- |
