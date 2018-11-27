@@ -1,6 +1,6 @@
 # silverleague/silverstripe-markdown
 
-## Status: Draft
+## Status: Abandoned
 
 | Role | Assignee |
 | ---- | --- |
